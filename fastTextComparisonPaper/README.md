@@ -1,5 +1,5 @@
 
-#Instructions:
+# Instructions:
 * You have to download the pre-trained fastText model from here [here](https://github.com/facebookresearch/fastText/blob/master/docs/pretrained-vectors.md). I chose wiki.ar.
 * Do not forget to change the path of the read files as it is in your machine.
 * You have to build vectors (run the two files of building vectors) then run the classification model file.

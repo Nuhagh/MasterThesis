@@ -9,14 +9,14 @@
   
     An Arabic dataset which was collected via WikipediaAPI in Python.
 
-** The dataset contains 1909 labeled articles in five classes:
+    * The dataset contains 1909 labeled articles in five classes:
 1. Tech: 400 articles about techonlogy, electronics, home automation and mobile phones.
 2. Work: 400 articles about office, office wear, formal clothes, uniforms, work interviews, shared work space, working as a team, careers, and education.
 3. Sport: 309 articles about sports, sport wear, gym, sport shoes, exercises, football and universal games, sport equipment, leagues and sport clubs.
 4. Beauty: 400 articles about shopping, fashion, makeup, social events, occasions, parties, gifts, perfumes and accessories.
 5. Health: 400 articles about medicine, women's health, men's health, child health, vaccination (medicine), pharmacy, global health, medical speciality, prevntion, cleaning, and dentistry.
 
-** The dataset is cleaned by removing:
+    * The dataset is cleaned by removing:
 1. digits.
 2. Underscores.
 3. Any word written by the letters from a-z or A-Z.

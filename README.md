@@ -3,7 +3,7 @@
     Contains .ipynb files used to build models of paper: [A Comparison of fastText Implementations Using Arabic Text Classification](https://link.springer.com/chapter/10.1007/978-3-030-29513-4_21).
 
 * Folder (ThesisClassificationModels)
-    Contains .ipynb files that used to build vectors and train multiple classification models using fastText. The results are used in paper:[Solving the Cold-Start Problem in Recommender Systems Using Contextual Information in Arabic from Calendars](https://link.springer.com/article/10.1007/s13369-020-04890-z) 
+    Contains vectors files and .ipynb file that trained multiple classification models using fastText. The results are used in paper:[Solving the Cold-Start Problem in Recommender Systems Using Contextual Information in Arabic from Calendars](https://link.springer.com/article/10.1007/s13369-020-04890-z) 
 
 * Files (dataset_16Feb.csv and dataset_16Feb.json)
   

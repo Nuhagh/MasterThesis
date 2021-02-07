@@ -1,4 +1,11 @@
-Files (dataset_16Feb.csv and dataset_16Feb.json)
+
+* Folder (fastTextComparisonPaper)
+    Contains .ipynb files used to build models of paper: [A Comparison of fastText Implementations Using Arabic Text Classification](https://link.springer.com/chapter/10.1007/978-3-030-29513-4_21).
+
+* Folder (ThesisClassificationModels)
+    Contains .ipynb files that used to build vectors and train multiple classification models using fastText.
+
+* Files (dataset_16Feb.csv and dataset_16Feb.json)
   
     An Arabic dataset which was collected via WikipediaAPI in Python.
 
